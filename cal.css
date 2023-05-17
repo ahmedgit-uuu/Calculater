@@ -1,6 +1,6 @@
 .container{
     text-align: center;
-    margin-top:23px
+    margin-top:24px;
 }
 
 table{
@@ -8,7 +8,7 @@ table{
 }
 
 input{
-    border-radius: 21px;
+    border-radius: 22px;
     border: 5px solid #244624;
     font-size:34px;
     height: 65px;
